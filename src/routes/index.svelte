@@ -43,4 +43,4 @@
 	<figcaption>HIGH FIVE!</figcaption>
 </figure>
 
-<p><strong>Nikte mérenlimo</strong></p>
+<p><strong>Nikta mérenlimo</strong></p>
